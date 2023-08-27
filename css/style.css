@@ -4,15 +4,6 @@
   box-sizing: border-box;
   color: bisque;
 }
-.wrapper {
-  height: 100vh;
-  background-color: chocolate;
-}
-button {
-  border: none;
-  background-color: chocolate;
-  text-decoration: underline;
-}
 .diff {
   border: none;
   background-color: chocolate;
