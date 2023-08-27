@@ -4,6 +4,14 @@
   box-sizing: border-box;
   color: bisque;
 }
+body {
+  background-color: chocolate;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+
 .diff {
   border: none;
   background-color: chocolate;
